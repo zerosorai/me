@@ -3,20 +3,16 @@
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=zerosorai&label=Profile%20views&color=0e75b6&style=flat" alt="zerosorai" /> </p>
 
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=zerosorai" alt="zerosorai" /></a > </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/ seguir/?logo=twitter&style=para-la-insignia"alt="" /></a> </p>
-
 - 🔭 Actualmente estoy trabajando en **SORAI MÉXICO**
 
-- 📝 Regularmente escribo artículos en [https://palomojo.blogspot.com/](https: //palomojo.blogspot.com/)
+- 📝 Regularmente escribo artículos en [https://palomojo.blogspot.com/](https://palomojo.blogspot.com/)
 
 - 📫 Cómo contactarme **SORIAMX.US@GMAIL.COM**
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https:// fb.com/watashi.michel" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ iconos/Social/facebook.svg" alt="watashi.michel" altura="30" ancho="40" /></a>
-<a href="https://www.youtube.com/c/sorai" target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sorai" altura="30" ancho="40" /></a>
+<h3 align= "izquierda">Conéctate conmigo:</h3>
+<p align="izquierda">
+<a href="https://fb.com/watashi.michel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/facebook.svg" alt="watashi.michel" height="30" width="40" /></a>
+<a href="https://www .youtube.com/c/sorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Social/youtube.svg" alt="sorai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
@@ -30,4 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerosorai&show_icons=true&locale=en&layout=compact" alt="zerosorai" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=zerosorai&show_icons=true&locale=en" alt="zerosorai" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zerosorai&" alt="zerosorai" /></p>
 
